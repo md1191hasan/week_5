@@ -1,0 +1,8 @@
+Customer name: Coffee quantity: Tea quantity: Sandwich quantity: 
+===== RECEIPT =====
+Customer : Bobby
+Coffee   : 3
+Tea      : 3
+Sandwich : 2
+------------------
+Total = RM 67.50
